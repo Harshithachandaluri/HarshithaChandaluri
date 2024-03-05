@@ -1,9 +1,17 @@
 ### Hi there 👋
+**I'm Harshitha Chandaluri, a passionate Data Analyst📊.**
 
-Passionate Data Analyst📊.
 🧰 Analytics toolbox: SQL, Python, Power BI, DAX, Power Query & MS Excel.
+
 📚 Specialized in data collection, cleaning, analysis, and visualization.
+
 🔗 Connect on LinkedIn: https://www.linkedin.com/in/harshitha-chandaluri/
+
+🌐 Visit my portfolio: https://www.datascienceportfol.io/harshithachandaluri
+
+📫 Reach me at Gmail: harshithachandaluri1302@gmai.com
+
+Let's turn data into insights! 🚀
 
 <!--
 **Harshithachandaluri/HarshithaChandaluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
