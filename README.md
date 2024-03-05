@@ -9,7 +9,7 @@
 
 🌐 Visit my portfolio: https://www.datascienceportfol.io/harshithachandaluri
 
-📫 Reach me at Gmail: harshithachandaluri1302@gmai.com
+📫 Reach me at Gmail: harshithachandaluri1302@gmail.com
 
 Let's turn data into insights! 🚀
 
